@@ -1,4 +1,4 @@
-## Curso DIO 
+## Curso Digital Innovation One
 
 ##### Desenvolvimento de aplicações com .NET
 
