@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Cursomvc.Models;
-
+// teste commit git pelo visual studio
 namespace Cursomvc.Controllers
 {
     public class CategoriasController : Controller
