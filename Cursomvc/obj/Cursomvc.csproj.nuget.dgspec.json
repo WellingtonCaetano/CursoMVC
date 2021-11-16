@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\Cursomvc.csproj": {}
+    "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\CursoMVC.csproj": {}
   },
   "projects": {
-    "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\Cursomvc.csproj": {
+    "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\CursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\Cursomvc.csproj",
-        "projectName": "Cursomvc",
-        "projectPath": "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\Cursomvc.csproj",
+        "projectUniqueName": "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\CursoMVC.csproj",
+        "projectName": "CursoMVC",
+        "projectPath": "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\CursoMVC.csproj",
         "packagesPath": "C:\\Users\\Washington\\.nuget\\packages\\",
         "outputPath": "F:\\IDE\\PROJECTS_PESSOAIS\\workspace_csharp\\Cursomvc\\Cursomvc\\obj\\",
         "projectStyle": "PackageReference",

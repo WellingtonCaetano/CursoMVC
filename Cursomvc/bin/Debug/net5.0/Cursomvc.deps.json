@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Cursomvc/1.0.0": {
+      "CursoMVC/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.12",
@@ -319,10 +319,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Cursomvc.dll": {}
+          "CursoMVC.dll": {}
         },
         "compile": {
-          "Cursomvc.dll": {}
+          "CursoMVC.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -3489,7 +3489,7 @@
     }
   },
   "libraries": {
-    "Cursomvc/1.0.0": {
+    "CursoMVC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
